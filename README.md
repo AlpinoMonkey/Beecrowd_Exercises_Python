@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Repositório versionado do cursode Git e Git Hub
+# Olá Mundo
+ Primeiro Repositório versionado do curso do Git e Git Hub
+
+O primeiro repositório do samuel-elias GG!!!
