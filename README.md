@@ -3,4 +3,4 @@
 
 O primeiro repositório do samuel-elias GG!!!
 
-Essa linha eu alterei na rua, DIRETAMENTE NO SITE OLHA QUE IMPRESSIONANTE!!!!! :(
+Essa linha eu alterei na rua, DIRETAMENTE NO SITE OLHA QUE IMPRESSIONANTE!!!!! 
