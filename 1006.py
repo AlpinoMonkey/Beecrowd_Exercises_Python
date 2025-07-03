@@ -1,0 +1,10 @@
+A = float(input(""))
+B = float(input(""))
+C = float(input(""))
+AP = 2.0
+BP = 3.0
+CP = 5.0
+SOMAP = 10.0
+Media = (A * AP) + (B * BP) + (C * CP)
+MediaP = Media/SOMAP
+print("MEDIA = %.1f"%MediaP)

@@ -1,0 +1,8 @@
+cod1,numerope1,valorunpe1 = input().split()
+numerope1 = int(numerope1)
+valorunpe1 = float(valorunpe1)
+cod2,numerope2,valorunpe2 = input().split()
+numerope2 = int(numerope2)
+valorunpe2 = float(valorunpe2)
+total = (numerope1 * valorunpe1) + (numerope2*valorunpe2)
+print("VALOR A PAGAR: R$ %.2f"%total)
